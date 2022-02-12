@@ -1,0 +1,18 @@
+list_of_terms = [
+    "pokemon",
+    "bot",
+    "new",
+    "ash",
+    "gotta",
+    "catch",
+    "em",
+    "all",
+    "brock",
+    "misty",
+    "zapdos",
+    "badge",
+    "team",
+    "rocket",
+    "cpt",
+    "merlot",
+    "stream"]
